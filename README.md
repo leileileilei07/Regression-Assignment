@@ -1,2 +1,2 @@
-# Regression-Assignment
-the project contains the regression assignment of university of washington on coursera
+# programming assignment 
+the project contains the assignment of university of washington on coursera
